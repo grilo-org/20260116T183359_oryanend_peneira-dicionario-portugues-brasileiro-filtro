@@ -1,0 +1,4 @@
+CREATE TABLE words(
+    id BIGINT PRIMARY KEY,
+    word VARCHAR(255) NOT NULL
+);
